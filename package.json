@@ -2,8 +2,7 @@
   "name": "mern",
   "version": "0.1.0",
   "private": false,
-  "homepage":"http://sunnygupta2016.github.io/Emi_Calculator_Reactjs",
-
+  "homepage": "http://sunnygupta2016.github.io/Emi_Calculator_Reactjs",
   "engines": {
     "npm": "6.14.4",
     "node": "10.16.2"
@@ -14,14 +13,13 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.5.0",
+    "build": "^0.1.4",
     "material-ui": "^0.20.2",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-        "gh-pages":"^2.1.1"
-
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
-    "predeploy":"npm run build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -48,6 +46,6 @@
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "gh-pages":"^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
