@@ -81,7 +81,7 @@ class Frontpage extends React.Component{
                </Grid>
                </Grid>
                </Container> 
-            
+            <div class="container-fluid">
             <div class="flex">
               
                 <h4><span>LoanAmount(Rs):{loanAmount}</span></h4>
@@ -89,6 +89,7 @@ class Frontpage extends React.Component{
                 <h4><span>Interest_Amount Payable(Rs):{interestAmt}</span></h4>
                 <h4><span>Total_Amount_Payable(Rs):{totalAmt}</span></h4>
              
+            </div>
             </div>
         
        
