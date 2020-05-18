@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36dec99cf32a4ba9659e03f3918a203f",
+    "revision": "b9b6f858637bc2675100534eac9a9889",
     "url": "/Emi_Calculator_Reactjs/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Emi_Calculator_Reactjs/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "f098198663249013e8ed",
-    "url": "/Emi_Calculator_Reactjs/static/css/main.9c2263c7.chunk.css"
+    "revision": "63974cfc52a8e30257d3",
+    "url": "/Emi_Calculator_Reactjs/static/css/main.e1954d6d.chunk.css"
   },
   {
     "revision": "3e3323cd39807bb45b55",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Emi_Calculator_Reactjs/static/js/2.0f0490d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f098198663249013e8ed",
+    "revision": "63974cfc52a8e30257d3",
     "url": "/Emi_Calculator_Reactjs/static/js/main.8d9e391e.chunk.js"
   },
   {
