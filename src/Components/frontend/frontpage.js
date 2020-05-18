@@ -82,6 +82,7 @@ class Frontpage extends React.Component{
                </Grid>
                </Container> 
             <div class="container-fluid">
+            
             <div class="flex">
               
                 <h4><span>LoanAmount(Rs):{loanAmount}</span></h4>
